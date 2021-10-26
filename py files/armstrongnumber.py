@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jun 26 07:36:25 2020
-
-@author: TajammulNaeem
-"""
-                 
-            # Armstrong Number
+# Armstrong Number
 
 n=input("Enter a number: ")
 total_sum=0
@@ -14,6 +7,6 @@ for i in n:
     total_sum+=initial_sum
 print(total_sum)
 if int(n)==total_sum:
-    print(f"{n} is an Armstrong number")
+    print("{} is an Armstrong number".format(n))
 else:
-    print(f"{n} is not an Armstrong number")  
+    print("{} is not an Armstrong number".format(n))
