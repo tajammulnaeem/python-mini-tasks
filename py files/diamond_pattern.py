@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 11 23:47:01 2021
-
-@author: Tajammul
-"""
-
 # this code is printing a diomond pattern of asterisks just in two loops.
 
 c=int(input('Enter a integer number: '))
